@@ -18,7 +18,9 @@ nav {
   text-decoration: none;
 }
 
-.home-page, .calculator-page, .quote-page {
+.home-page,
+.calculator-page, 
+.quote-page {
   width: 100%;
   padding: 20px;
 }
