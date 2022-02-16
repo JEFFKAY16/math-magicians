@@ -1,0 +1,24 @@
+nav {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  background-color: rgb(78, 78, 88);
+  color: #fff;
+}
+
+.nav-links {
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+}
+
+.nav-links li {
+  margin: 0 20px;
+  color: #fff;
+  text-decoration: none;
+}
+
+.home-page, .calculator-page, .quote-page {
+  width: 100%;
+  padding: 20px;
+}
